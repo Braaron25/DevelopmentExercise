@@ -1,4 +1,4 @@
-# NEORIS Exercise
+# Development Exercise
 Ejercicio práctico que contiene dos micro-servicios que se comunican entre si de manera asíncrona, contiene pruebas unitarias y pruebas de integración.
 
 
